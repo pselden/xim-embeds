@@ -5,9 +5,9 @@
 To use the XIM Price widget past the following code into your page:
 
 ```html
-<iframe src="//pselden.github.io/xim-embeds/price" height="180" width="150" frameborder="0"></iframe>
+<iframe src="//pselden.github.io/xim-embeds/price/" height="190" width="160" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 ```
 
-# Example
+### Example
 
-<iframe src="//pselden.github.io/xim-embeds/price" height="180" width="150" frameborder="0"></iframe>
+<iframe src="//pselden.github.io/xim-embeds/price/" height="190" width="160" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
